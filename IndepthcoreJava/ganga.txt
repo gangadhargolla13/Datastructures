@@ -1,0 +1,16 @@
+Thread[main,5,main]
+This is a main thread
+main
+The value of J is 1
+Thread[Ganga,10,main]
+The value of J is 2
+Ganga
+The value of J is 3
+The value of i is 1
+The value of J is 4
+The value of i is 2
+Main thread have been successful
+The value of i is 3
+Every thing went was well
+The value of i is 4
+Current running is Ganga
